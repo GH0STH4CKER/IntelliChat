@@ -3,6 +3,8 @@ A Smart AI Chatbot named IntelliChat
 
 https://github.com/GH0STH4CKER/IntelliChat/assets/62290930/2d0175f3-2572-40f2-b583-fc5c41cf9b4f
 
+Try it via Google Colab: <a href='https://colab.research.google.com/drive/12QNAhZjpIzcNvG7izgTGyzvZ1QlHHEaA?usp=sharing'>click here</a>
+
 ### Overview
 IntelliChat is a Python-based chatbot designed to engage in conversations with users, perform arithmetic operations, and provide information sourced from Wikipedia. It utilizes natural language processing (NLP) techniques and a neural network model for intent classification.
 
