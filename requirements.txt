@@ -1,0 +1,5 @@
+numpy
+wikipedia
+colorama
+tensorflow
+nltk
